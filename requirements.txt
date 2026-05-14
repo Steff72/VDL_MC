@@ -1,0 +1,14 @@
+torch
+torchvision
+lightning
+torchmetrics
+optuna
+pandas
+numpy
+matplotlib
+pillow
+tqdm
+nltk
+ipykernel
+scikit-learn
+
