@@ -1,6 +1,6 @@
 torch
 torchvision
-lightning
+lightning==2.6.0
 torchmetrics
 optuna
 pandas
