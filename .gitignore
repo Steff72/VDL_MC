@@ -22,3 +22,6 @@ wandb/
 lightning_logs/
 mlruns/
 
+
+/.quarto/
+**/*.quarto_ipynb
